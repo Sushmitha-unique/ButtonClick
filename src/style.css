@@ -1,0 +1,15 @@
+button{
+    padding: 10px;
+    color: white;
+    border: 8px solid blue;
+}
+#b{
+    background-color: blue;
+    border: 8px solid blue;
+}
+#r{
+    background-color: red;
+}
+#g{
+    background-color: green;
+}
